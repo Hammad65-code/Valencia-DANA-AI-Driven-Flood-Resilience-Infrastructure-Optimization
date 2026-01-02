@@ -1,2 +1,8 @@
 # Valencia-DANA-AI-Driven-Flood-Resilience-Infrastructure-Optimization
 Developed a geospatial pipeline to model the 2024 Valencia flash floods, using K-Means Clustering and NDVI satellite data to identify critical infrastructure vulnerabilities.
+The "Why" Behind the Project: I developed this model to analyze the catastrophic 2024 Valencia DANA event, moving beyond basic mapping to understand exactly why the city's traditional drainage failed under 400mm of extreme rainfall.
+Deep Terrain Analysis: Using NASA Digital Elevation Models (DEM), I mapped the "path of least resistance" for floodwaters, identifying how the natural slope of the Valencia region funnels water into high-density urban corridors.
+Concrete vs. Nature: I integrated NDVI satellite indices to calculate the "Absorption Gap," proving how the high ratio of concrete-to-green space in the city center creates a dangerous "runoff multiplier" during flash floods.
+AI-Driven Solutions: Rather than just finding problems, I used K-Means Clustering to mathematically pinpoint the five most effective locations for new drainage nodes, ensuring maximum protection for the lowest infrastructure cost.
+The "Sponge City" Impact: I simulated the implementation of nature-based solutions—like permeable pavements and rain gardens—which my model predicts could reduce peak flood runoff by up to 35% in high-risk zones.
+Professional Stakeholder Delivery: To make the data useful for non-technical decision-makers, I built a Visual Intelligence Dashboard featuring risk histograms and land-use pie charts that translate raw code into a clear city-wide recovery strategy.
