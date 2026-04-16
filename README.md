@@ -14,6 +14,7 @@ graph LR
     C --> D[NVIDIA-Accelerated Compute]
     D --> E[Valencia Risk Map]
     E --> F[35% Runoff Optimization]
+
 🛠️ Technical Implementation
 Machine Learning: K-Means Clustering for vulnerability pinpointing.
 
