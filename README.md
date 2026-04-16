@@ -21,3 +21,10 @@ Machine Learning: K-Means Clustering for vulnerability pinpointing.
 Visualization: Spatial Heatmaps & Risk Histograms for city planning.
 
 Enterprise Ready: Configured for live GIS feeds via .env integration.
+
+🗺️ Framework Scalability
+While this deployment focuses on the Valencia DANA event, the underlying Bayesian-Spatial Logic is designed for modular adaptation to other high-density urban environments:
+
+Manhattan, NY: Optimized for high-rise runoff and subterranean infrastructure (Subway/Utility) protection.
+
+London, UK: Adaptation for Thames Estuary tidal surge modeling.
